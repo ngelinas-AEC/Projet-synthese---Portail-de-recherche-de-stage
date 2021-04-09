@@ -1,4 +1,4 @@
-// <!-- FormAjouterEntreprise.js -->
+// <!-- FormAjouterDemande.js -->
 // <!-- Projet synthèse en développement WEB -->
 // <!-- Nico Gelinas -->
 

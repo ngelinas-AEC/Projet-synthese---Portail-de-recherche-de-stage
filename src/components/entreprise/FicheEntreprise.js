@@ -1,4 +1,4 @@
-// <!-- FicheCandidat.js -->
+// <!-- FicheEntreprise.js -->
 // <!-- Projet synthèse en développement WEB -->
 // <!-- Nico Gelinas -->
 

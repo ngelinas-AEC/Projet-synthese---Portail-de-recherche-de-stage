@@ -1,4 +1,4 @@
-// <!-- SuppressionEntreprise.js -->
+// <!-- SuppressionDemande.js -->
 // <!-- Projet synthèse en développement WEB -->
 // <!-- Nico Gelinas -->
 

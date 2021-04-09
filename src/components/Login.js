@@ -1,3 +1,7 @@
+// <!-- Login.js -->
+// <!-- Projet synthèse en développement WEB -->
+// <!-- Nico Gelinas -->
+
 import React, { useState } from 'react';
 import {NavLink} from 'react-router-dom' 
 import PropTypes from 'prop-types';
@@ -5,8 +9,7 @@ import '../styles/login.sass';
  
 export class Login extends React.Component {
   render() {
-
-    
+   
     return(
       <div className="login-wrapper">
         <h1>Please Log In</h1>
