@@ -12,11 +12,11 @@ export class Login extends React.Component {
    
     return(
       <div className="login-wrapper">
-        <h1>Please Log In</h1>
+        <h1>Connexion</h1>
         <form>
-            <h3>Username</h3>
+            <h3>Nom utilisateur</h3>
             <input type="text" />
-            <p>Password</p>
+            <p>Mot de passe</p>
             <input type="password" />
           <div>
           <br></br>

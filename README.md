@@ -11,8 +11,7 @@ C'est un des cours de l'AEC en Dévelopment Front-end du Cégep Trois-Rivières.
 ## TESTS UNITAIRES
 
 Les fichiers des tests unitaire se trouvent dans le répertoire. 
-https://github.com/ngelinas-AEC/Projet-synthese---Portail-de-recherche-de-stage/blob/main/__tests__/
-
+https://github.com/ngelinas-AEC/Projet-synthese---Portail-de-recherche-de-stage/blob/main/src/__test__/
 
 ## BESOINS FONCTIONNELS
 
