@@ -2,7 +2,7 @@
   "name": "projet-final_portfolio",
   "version": "0.1.0",
   "private": false,
-  "homepage": "./",
+  "homepage": "https://github.com/ngelinas-AEC/Projet-synthese---Portail-de-recherche-de-stage/",
   "predeploy": "npm run build",
   "deploy": "gh-pages -d build",
   "dependencies": {
